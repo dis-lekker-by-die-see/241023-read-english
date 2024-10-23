@@ -16,7 +16,8 @@ var replayButton = document.getElementById("replayButton");
 // Function to load the media.json file using XMLHttpRequest
 function loadMediaData() {
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "/media.json", true); // Asynchronous request
+    //xhr.open("GET", "/media.json", true); // Asynchronous request
+    xhr.open("GET", "./media.json", true);
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4 && xhr.status === 200) {
             // Parse the JSON response
@@ -57,9 +58,11 @@ function showRandomWord() {
 function revealAnswer() {
     if (currentMedia) {
         // Assume the media files are in /media folder
-        imageDisplay.src = "/media/".concat(currentMedia.imageFileName);
+        //imageDisplay.src = `/media/${currentMedia.imageFileName}`;
+        imageDisplay.src = "./media/".concat(currentMedia.imageFileName);
         imageDisplay.classList.remove("hidden");
-        audioPlayer.src = "/media/".concat(currentMedia.audioFileName);
+        //audioPlayer.src = `/media/${currentMedia.audioFileName}`;
+        audioPlayer.src = "./media/".concat(currentMedia.audioFileName);
         audioPlayer.play();
         answerButton.textContent = "OK";
         replayButton.classList.remove("hidden");

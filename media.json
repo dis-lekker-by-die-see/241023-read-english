@@ -2,7 +2,7 @@
     {
         "number": 1,
         "word": "ant",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ant.mp3",
         "imageFileName": "8176F5F3-125C-49C4-8D94-BA2C6CE3C063.jpg",
         "tags": "Length_3"
@@ -10,7 +10,7 @@
     {
         "number": 2,
         "word": "and",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "and.mp3",
         "imageFileName": "8176F5F3-125C-49C4-8D94-BA2C6CE3C063.jpg",
         "tags": "Length_3"
@@ -26,7 +26,7 @@
     {
         "number": 4,
         "word": "bat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bat.mp3",
         "imageFileName": "1FC9B130-7B85-4735-BD26-DB4DD1FE94E7.jpg",
         "tags": "Length_3"
@@ -34,7 +34,7 @@
     {
         "number": 5,
         "word": "bus",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bus.mp3",
         "imageFileName": "1FC9B130-7B85-4735-BD26-DB4DD1FE94E7.jpg",
         "tags": "Length_3"
@@ -74,7 +74,7 @@
     {
         "number": 10,
         "word": "cup",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cup.mp3",
         "imageFileName": "B54C4C36-1EF1-4A1F-9202-147F8C6DD082.jpg",
         "tags": "Length_3"
@@ -82,7 +82,7 @@
     {
         "number": 11,
         "word": "cat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cat.mp3",
         "imageFileName": "B54C4C36-1EF1-4A1F-9202-147F8C6DD082.jpg",
         "tags": "Length_3"
@@ -90,7 +90,7 @@
     {
         "number": 12,
         "word": "cap",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cap.mp3",
         "imageFileName": "B54C4C36-1EF1-4A1F-9202-147F8C6DD082.jpg",
         "tags": "Length_3"
@@ -122,7 +122,7 @@
     {
         "number": 16,
         "word": "dog",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "dog.mp3",
         "imageFileName": "5665012E-921E-49FB-8045-EA0525C1FE3A.jpg",
         "tags": "Length_3"
@@ -130,7 +130,7 @@
     {
         "number": 17,
         "word": "duck",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "duck.mp3",
         "imageFileName": "5665012E-921E-49FB-8045-EA0525C1FE3A.jpg",
         "tags": "Length_4"
@@ -170,7 +170,7 @@
     {
         "number": 22,
         "word": "egg",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "egg.mp3",
         "imageFileName": "5976178F-042B-499B-9C60-ED63D54B8D90.jpg",
         "tags": "Length_3"
@@ -178,7 +178,7 @@
     {
         "number": 23,
         "word": "elf",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "elf.mp3",
         "imageFileName": "5976178F-042B-499B-9C60-ED63D54B8D90.jpg",
         "tags": "Length_3"
@@ -194,7 +194,7 @@
     {
         "number": 25,
         "word": "fan",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fan.mp3",
         "imageFileName": "2C39601B-09B0-4BFB-AA7A-6A9FA9CE9D84.jpg",
         "tags": "Length_3"
@@ -202,7 +202,7 @@
     {
         "number": 26,
         "word": "fox",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fox.mp3",
         "imageFileName": "2C39601B-09B0-4BFB-AA7A-6A9FA9CE9D84.jpg",
         "tags": "Length_3"
@@ -210,7 +210,7 @@
     {
         "number": 27,
         "word": "frog",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "frog.mp3",
         "imageFileName": "2C39601B-09B0-4BFB-AA7A-6A9FA9CE9D84.jpg",
         "tags": "Length_4"
@@ -242,7 +242,7 @@
     {
         "number": 31,
         "word": "gum",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "gum.mp3",
         "imageFileName": "05446A8D-8FE4-4993-AE18-6D7500653D0D.jpg",
         "tags": "Length_3"
@@ -250,7 +250,7 @@
     {
         "number": 32,
         "word": "golf",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "golf.mp3",
         "imageFileName": "05446A8D-8FE4-4993-AE18-6D7500653D0D.jpg",
         "tags": "Length_4"
@@ -266,7 +266,7 @@
     {
         "number": 34,
         "word": "hat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "hat.mp3",
         "imageFileName": "3C7A76ED-EEC9-4B5E-9BC8-4AA14E13C768.jpg",
         "tags": "Length_3"
@@ -274,7 +274,7 @@
     {
         "number": 35,
         "word": "hand",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "hand.mp3",
         "imageFileName": "3C7A76ED-EEC9-4B5E-9BC8-4AA14E13C768.jpg",
         "tags": "Length_4"
@@ -282,7 +282,7 @@
     {
         "number": 36,
         "word": "horse",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "horse.mp3",
         "imageFileName": "3C7A76ED-EEC9-4B5E-9BC8-4AA14E13C768.jpg",
         "tags": "Length_5"
@@ -290,7 +290,7 @@
     {
         "number": 37,
         "word": "in",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "in.mp3",
         "imageFileName": "25C1A1CA-A007-4546-9C06-7AA3A87AE2B6.jpg",
         "tags": "Length_2"
@@ -298,7 +298,7 @@
     {
         "number": 38,
         "word": "ink",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ink.mp3",
         "imageFileName": "25C1A1CA-A007-4546-9C06-7AA3A87AE2B6.jpg",
         "tags": "Length_3"
@@ -314,7 +314,7 @@
     {
         "number": 40,
         "word": "jet",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "jet.mp3",
         "imageFileName": "9F2EE03E-6855-49A4-A48F-8A5BB290B656.jpg",
         "tags": "Length_3"
@@ -322,7 +322,7 @@
     {
         "number": 41,
         "word": "jam",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "jam.mp3",
         "imageFileName": "9F2EE03E-6855-49A4-A48F-8A5BB290B656.jpg",
         "tags": "Length_3"
@@ -330,7 +330,7 @@
     {
         "number": 42,
         "word": "jug",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "jug.mp3",
         "imageFileName": "9F2EE03E-6855-49A4-A48F-8A5BB290B656.jpg",
         "tags": "Length_3"
@@ -338,7 +338,7 @@
     {
         "number": 43,
         "word": "kids",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "kids.mp3",
         "imageFileName": "D69F361B-6BF4-4767-A2C9-2B66A31DF979.jpg",
         "tags": "Length_4"
@@ -346,7 +346,7 @@
     {
         "number": 44,
         "word": "king",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "king.mp3",
         "imageFileName": "D69F361B-6BF4-4767-A2C9-2B66A31DF979.jpg",
         "tags": "Length_4"
@@ -362,7 +362,7 @@
     {
         "number": 46,
         "word": "log",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "log.mp3",
         "imageFileName": "AC6E0230-0182-483F-ACFA-3E4E47474119.jpg",
         "tags": "Length_3"
@@ -386,7 +386,7 @@
     {
         "number": 49,
         "word": "map",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "map.mp3",
         "imageFileName": "1C03DC3F-D9B5-48D3-B620-CB2E3CA8E997.jpg",
         "tags": "Length_3"
@@ -394,7 +394,7 @@
     {
         "number": 50,
         "word": "milk",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "milk.mp3",
         "imageFileName": "1C03DC3F-D9B5-48D3-B620-CB2E3CA8E997.jpg",
         "tags": "Length_4"
@@ -410,7 +410,7 @@
     {
         "number": 52,
         "word": "net",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "net.mp3",
         "imageFileName": "BEC91391-DCA7-4AFB-99B4-8A9B03BEC96D.jpg",
         "tags": "Length_3"
@@ -418,7 +418,7 @@
     {
         "number": 53,
         "word": "nuts",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "nuts.mp3",
         "imageFileName": "BEC91391-DCA7-4AFB-99B4-8A9B03BEC96D.jpg",
         "tags": "Length_4"
@@ -426,7 +426,7 @@
     {
         "number": 54,
         "word": "nest",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "nest.mp3",
         "imageFileName": "BEC91391-DCA7-4AFB-99B4-8A9B03BEC96D.jpg",
         "tags": "Length_4"
@@ -458,7 +458,7 @@
     {
         "number": 58,
         "word": "on",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "on.mp3",
         "imageFileName": "360FA70C-684B-4FCD-8E28-778527240154.jpg",
         "tags": "Length_2"
@@ -466,7 +466,7 @@
     {
         "number": 59,
         "word": "off",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "off.mp3",
         "imageFileName": "360FA70C-684B-4FCD-8E28-778527240154.jpg",
         "tags": "Length_3"
@@ -482,7 +482,7 @@
     {
         "number": 61,
         "word": "pen",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "pen.mp3",
         "imageFileName": "871FF6BF-794F-4009-B586-0D568EC366E4.jpg",
         "tags": "Length_3"
@@ -538,7 +538,7 @@
     {
         "number": 68,
         "word": "queen",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "queen.mp3",
         "imageFileName": "410E79E9-1AD9-4089-ADC8-CB7F657B82B3.jpg",
         "tags": "Length_5"
@@ -554,7 +554,7 @@
     {
         "number": 70,
         "word": "red",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "red.mp3",
         "imageFileName": "93EFC8C7-97DB-487D-A8E5-60EBEEC87772.jpg",
         "tags": "Length_3"
@@ -562,7 +562,7 @@
     {
         "number": 71,
         "word": "run",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "run.mp3",
         "imageFileName": "93EFC8C7-97DB-487D-A8E5-60EBEEC87772.jpg",
         "tags": "Length_3"
@@ -570,7 +570,7 @@
     {
         "number": 72,
         "word": "rat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "rat.mp3",
         "imageFileName": "93EFC8C7-97DB-487D-A8E5-60EBEEC87772.jpg",
         "tags": "Length_3"
@@ -602,7 +602,7 @@
     {
         "number": 76,
         "word": "sun",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sun.mp3",
         "imageFileName": "451C4305-C0AC-4212-9BDA-57371F9D674E.jpg",
         "tags": "Length_3"
@@ -610,7 +610,7 @@
     {
         "number": 77,
         "word": "sea",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sea.mp3",
         "imageFileName": "451C4305-C0AC-4212-9BDA-57371F9D674E.jpg",
         "tags": "Length_3"
@@ -618,7 +618,7 @@
     {
         "number": 78,
         "word": "sand",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sand.mp3",
         "imageFileName": "451C4305-C0AC-4212-9BDA-57371F9D674E.jpg",
         "tags": "Length_4"
@@ -626,7 +626,7 @@
     {
         "number": 79,
         "word": "kiss",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "kiss.mp3",
         "imageFileName": "4B901F0F-BB9D-492A-8F1A-F8E03E4EBC79.jpg",
         "tags": "Length_4"
@@ -634,7 +634,7 @@
     {
         "number": 80,
         "word": "pass",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "pass.mp3",
         "imageFileName": "4B901F0F-BB9D-492A-8F1A-F8E03E4EBC79.jpg",
         "tags": "Length_4"
@@ -642,7 +642,7 @@
     {
         "number": 81,
         "word": "boss",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "boss.mp3",
         "imageFileName": "4B901F0F-BB9D-492A-8F1A-F8E03E4EBC79.jpg",
         "tags": "Length_4"
@@ -650,7 +650,7 @@
     {
         "number": 82,
         "word": "top",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "top.mp3",
         "imageFileName": "135A3A33-C927-4ADF-8CD2-AB13B08E6FA2.jpg",
         "tags": "Length_3"
@@ -658,7 +658,7 @@
     {
         "number": 83,
         "word": "tent",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tent.mp3",
         "imageFileName": "135A3A33-C927-4ADF-8CD2-AB13B08E6FA2.jpg",
         "tags": "Length_4"
@@ -698,7 +698,7 @@
     {
         "number": 88,
         "word": "up",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "up.mp3",
         "imageFileName": "FBC78DCC-3F85-489B-A4FE-719ECF0B4799.jpg",
         "tags": "Length_2"
@@ -722,7 +722,7 @@
     {
         "number": 91,
         "word": "van",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "van.mp3",
         "imageFileName": "823D6235-8241-4B15-8B8C-7F0CECBB0215.jpg",
         "tags": "Length_3"
@@ -730,7 +730,7 @@
     {
         "number": 92,
         "word": "vet",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "vet.mp3",
         "imageFileName": "823D6235-8241-4B15-8B8C-7F0CECBB0215.jpg",
         "tags": "Length_3"
@@ -746,7 +746,7 @@
     {
         "number": 94,
         "word": "web",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "web.mp3",
         "imageFileName": "B1DFB575-A9AE-443E-91AE-F96E1D752FD5.jpg",
         "tags": "Length_3"
@@ -754,7 +754,7 @@
     {
         "number": 95,
         "word": "wings",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "wings.mp3",
         "imageFileName": "B1DFB575-A9AE-443E-91AE-F96E1D752FD5.jpg",
         "tags": "Length_5"
@@ -762,7 +762,7 @@
     {
         "number": 96,
         "word": "witch",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "witch.mp3",
         "imageFileName": "B1DFB575-A9AE-443E-91AE-F96E1D752FD5.jpg",
         "tags": "Length_5"
@@ -770,7 +770,7 @@
     {
         "number": 97,
         "word": "box",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "box.mp3",
         "imageFileName": "99A88630-369A-41B9-BC5D-397A671717FF.jpg",
         "tags": "Length_3"
@@ -794,7 +794,7 @@
     {
         "number": 100,
         "word": "yes",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "yes.mp3",
         "imageFileName": "FE481E04-1DFD-43D4-9BEB-1D656CA35FD7.jpg",
         "tags": "Length_3"
@@ -802,7 +802,7 @@
     {
         "number": 101,
         "word": "yak",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "yak.mp3",
         "imageFileName": "FE481E04-1DFD-43D4-9BEB-1D656CA35FD7.jpg",
         "tags": "Length_3"
@@ -818,7 +818,7 @@
     {
         "number": 103,
         "word": "zip",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "zip.mp3",
         "imageFileName": "11E687F1-70AA-453E-ACB2-D06F5CFC1F78.jpg",
         "tags": "Length_3"
@@ -842,7 +842,7 @@
     {
         "number": 106,
         "word": "jazz",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "jazz.mp3",
         "imageFileName": "741C41A6-FAF4-4855-B57B-1FDF8D5B554D.jpg",
         "tags": "Length_4"
@@ -890,7 +890,7 @@
     {
         "number": 112,
         "word": "game",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "game.mp3",
         "imageFileName": "6F0567C3-7910-4E23-B942-86DD2BCE985B.jpg",
         "tags": "Length_4"
@@ -898,7 +898,7 @@
     {
         "number": 113,
         "word": "cake",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cake.mp3",
         "imageFileName": "6F0567C3-7910-4E23-B942-86DD2BCE985B.jpg",
         "tags": "Length_4"
@@ -906,7 +906,7 @@
     {
         "number": 114,
         "word": "whale",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "whale.mp3",
         "imageFileName": "6F0567C3-7910-4E23-B942-86DD2BCE985B.jpg",
         "tags": "Length_5"
@@ -914,7 +914,7 @@
     {
         "number": 115,
         "word": "black",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "black.mp3",
         "imageFileName": "A8F61ED4-AD4B-4D46-BBD9-8683F97C023B.jpg",
         "tags": "Length_5"
@@ -922,7 +922,7 @@
     {
         "number": 116,
         "word": "blimp",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "blimp.mp3",
         "imageFileName": "A8F61ED4-AD4B-4D46-BBD9-8683F97C023B.jpg",
         "tags": "Length_5"
@@ -930,7 +930,7 @@
     {
         "number": 117,
         "word": "blocks",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "blocks.mp3",
         "imageFileName": "A8F61ED4-AD4B-4D46-BBD9-8683F97C023B.jpg",
         "tags": "Length_6"
@@ -938,7 +938,7 @@
     {
         "number": 118,
         "word": "brick",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "brick.mp3",
         "imageFileName": "F6BEBCE1-900E-4816-BC3B-54E11BDAB376.jpg",
         "tags": "Length_5"
@@ -946,7 +946,7 @@
     {
         "number": 119,
         "word": "brown",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "brown.mp3",
         "imageFileName": "F6BEBCE1-900E-4816-BC3B-54E11BDAB376.jpg",
         "tags": "Length_5"
@@ -954,7 +954,7 @@
     {
         "number": 120,
         "word": "broom",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "broom.mp3",
         "imageFileName": "F6BEBCE1-900E-4816-BC3B-54E11BDAB376.jpg",
         "tags": "Length_5"
@@ -962,7 +962,7 @@
     {
         "number": 121,
         "word": "chips",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "chips.mp3",
         "imageFileName": "3DC0C37A-D685-4B79-A141-79FA4094299B.jpg",
         "tags": "Length_5"
@@ -978,7 +978,7 @@
     {
         "number": 123,
         "word": "peach",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "peach.mp3",
         "imageFileName": "3DC0C37A-D685-4B79-A141-79FA4094299B.jpg",
         "tags": "Length_5"
@@ -986,7 +986,7 @@
     {
         "number": 124,
         "word": "clip",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "clip.mp3",
         "imageFileName": "E007A9B5-20AB-4325-8702-9B207500C7E4.jpg",
         "tags": "Length_4"
@@ -994,7 +994,7 @@
     {
         "number": 125,
         "word": "clock",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "clock.mp3",
         "imageFileName": "E007A9B5-20AB-4325-8702-9B207500C7E4.jpg",
         "tags": "Length_5"
@@ -1002,7 +1002,7 @@
     {
         "number": 126,
         "word": "clown",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "clown.mp3",
         "imageFileName": "E007A9B5-20AB-4325-8702-9B207500C7E4.jpg",
         "tags": "Length_5"
@@ -1010,7 +1010,7 @@
     {
         "number": 127,
         "word": "crab",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "crab.mp3",
         "imageFileName": "E5EACF1F-F726-4FB7-A140-B6C4AADDC7C4.jpg",
         "tags": "Length_4"
@@ -1018,7 +1018,7 @@
     {
         "number": 128,
         "word": "crow",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "crow.mp3",
         "imageFileName": "E5EACF1F-F726-4FB7-A140-B6C4AADDC7C4.jpg",
         "tags": "Length_4"
@@ -1034,7 +1034,7 @@
     {
         "number": 130,
         "word": "drum",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "drum.mp3",
         "imageFileName": "7A5DB7A4-8275-4813-9800-7E8FA6005E91.jpg",
         "tags": "Length_4"
@@ -1042,7 +1042,7 @@
     {
         "number": 131,
         "word": "dress",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "dress.mp3",
         "imageFileName": "7A5DB7A4-8275-4813-9800-7E8FA6005E91.jpg",
         "tags": "Length_5"
@@ -1058,7 +1058,7 @@
     {
         "number": 133,
         "word": "he",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "he.mp3",
         "imageFileName": "5075720B-3E77-4B53-96E8-FCEA1E74709E.jpg",
         "tags": "Length_2"
@@ -1066,7 +1066,7 @@
     {
         "number": 134,
         "word": "she",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "she.mp3",
         "imageFileName": "5075720B-3E77-4B53-96E8-FCEA1E74709E.jpg",
         "tags": "Length_3"
@@ -1082,7 +1082,7 @@
     {
         "number": 136,
         "word": "flag",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "flag.mp3",
         "imageFileName": "FB3C7CDC-F5EA-44A8-B69B-90FD8FB26052.jpg",
         "tags": "Length_4"
@@ -1090,7 +1090,7 @@
     {
         "number": 137,
         "word": "flute",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "flute.mp3",
         "imageFileName": "FB3C7CDC-F5EA-44A8-B69B-90FD8FB26052.jpg",
         "tags": "Length_5"
@@ -1106,7 +1106,7 @@
     {
         "number": 139,
         "word": "frogs",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "frogs.mp3",
         "imageFileName": "C7BDC65A-80AE-40AD-8C18-10322A72E5EF.jpg",
         "tags": "Length_5"
@@ -1114,7 +1114,7 @@
     {
         "number": 140,
         "word": "fridge",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fridge.mp3",
         "imageFileName": "C7BDC65A-80AE-40AD-8C18-10322A72E5EF.jpg",
         "tags": "Length_6"
@@ -1122,7 +1122,7 @@
     {
         "number": 141,
         "word": "friends",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "friends.mp3",
         "imageFileName": "C7BDC65A-80AE-40AD-8C18-10322A72E5EF.jpg",
         "tags": "Length_7"
@@ -1130,7 +1130,7 @@
     {
         "number": 142,
         "word": "glass",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "glass.mp3",
         "imageFileName": "E75156D6-915A-41CC-B92A-2C508F24225F.jpg",
         "tags": "Length_5"
@@ -1138,7 +1138,7 @@
     {
         "number": 143,
         "word": "globe",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "globe.mp3",
         "imageFileName": "E75156D6-915A-41CC-B92A-2C508F24225F.jpg",
         "tags": "Length_5"
@@ -1146,7 +1146,7 @@
     {
         "number": 144,
         "word": "gloves",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "gloves.mp3",
         "imageFileName": "E75156D6-915A-41CC-B92A-2C508F24225F.jpg",
         "tags": "Length_6"
@@ -1154,7 +1154,7 @@
     {
         "number": 145,
         "word": "green",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "green.mp3",
         "imageFileName": "07A6F925-740A-4948-A5EF-8270E73F381E.jpg",
         "tags": "Length_5"
@@ -1162,7 +1162,7 @@
     {
         "number": 146,
         "word": "grass",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "grass.mp3",
         "imageFileName": "07A6F925-740A-4948-A5EF-8270E73F381E.jpg",
         "tags": "Length_5"
@@ -1170,7 +1170,7 @@
     {
         "number": 147,
         "word": "grapes",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "grapes.mp3",
         "imageFileName": "07A6F925-740A-4948-A5EF-8270E73F381E.jpg",
         "tags": "Length_6"
@@ -1186,7 +1186,7 @@
     {
         "number": 149,
         "word": "lions",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "lions.mp3",
         "imageFileName": "7AD99EF5-73A1-4F01-A11D-683FBC5A2DB3.jpg",
         "tags": "Length_5"
@@ -1202,7 +1202,7 @@
     {
         "number": 151,
         "word": "kite",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "kite.mp3",
         "imageFileName": "73CA21F7-2B85-4CA5-8953-3D11BC499E79.jpg",
         "tags": "Length_4"
@@ -1210,7 +1210,7 @@
     {
         "number": 152,
         "word": "bike",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bike.mp3",
         "imageFileName": "73CA21F7-2B85-4CA5-8953-3D11BC499E79.jpg",
         "tags": "Length_4"
@@ -1218,7 +1218,7 @@
     {
         "number": 153,
         "word": "lime",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "lime.mp3",
         "imageFileName": "73CA21F7-2B85-4CA5-8953-3D11BC499E79.jpg",
         "tags": "Length_4"
@@ -1226,7 +1226,7 @@
     {
         "number": 154,
         "word": "ring",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ring.mp3",
         "imageFileName": "26427BED-BBCD-4155-9FB9-1BA28A379149.jpg",
         "tags": "Length_4"
@@ -1234,7 +1234,7 @@
     {
         "number": 155,
         "word": "sing",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sing.mp3",
         "imageFileName": "26427BED-BBCD-4155-9FB9-1BA28A379149.jpg",
         "tags": "Length_4"
@@ -1242,7 +1242,7 @@
     {
         "number": 156,
         "word": "swing",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "swing.mp3",
         "imageFileName": "26427BED-BBCD-4155-9FB9-1BA28A379149.jpg",
         "tags": "Length_5"
@@ -1250,7 +1250,7 @@
     {
         "number": 157,
         "word": "pink",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "pink.mp3",
         "imageFileName": "83F789E8-F848-4388-8330-AD88A17CC650.jpg",
         "tags": "Length_4"
@@ -1258,7 +1258,7 @@
     {
         "number": 158,
         "word": "drink",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "drink.mp3",
         "imageFileName": "83F789E8-F848-4388-8330-AD88A17CC650.jpg",
         "tags": "Length_5"
@@ -1266,7 +1266,7 @@
     {
         "number": 159,
         "word": "bank",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bank.mp3",
         "imageFileName": "83F789E8-F848-4388-8330-AD88A17CC650.jpg",
         "tags": "Length_4"
@@ -1290,7 +1290,7 @@
     {
         "number": 162,
         "word": "yo yo",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "yo yo.mp3",
         "imageFileName": "9BB6C739-881F-4A35-8F6A-8350FB731B47.jpg",
         "tags": "Length_5"
@@ -1298,7 +1298,7 @@
     {
         "number": 163,
         "word": "note",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "note.mp3",
         "imageFileName": "06CEE6B7-F604-409A-8427-BCA277F9F706.jpg",
         "tags": "Length_4"
@@ -1306,7 +1306,7 @@
     {
         "number": 164,
         "word": "bone",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bone.mp3",
         "imageFileName": "06CEE6B7-F604-409A-8427-BCA277F9F706.jpg",
         "tags": "Length_4"
@@ -1314,7 +1314,7 @@
     {
         "number": 165,
         "word": "rose",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "rose.mp3",
         "imageFileName": "06CEE6B7-F604-409A-8427-BCA277F9F706.jpg",
         "tags": "Length_4"
@@ -1330,7 +1330,7 @@
     {
         "number": 167,
         "word": "phone",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "phone.mp3",
         "imageFileName": "5D9A0C59-8018-4D67-8595-517048D58B7D.jpg",
         "tags": "Length_5"
@@ -1346,7 +1346,7 @@
     {
         "number": 169,
         "word": "plug",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "plug.mp3",
         "imageFileName": "70B33BD5-616C-4DF1-B232-98DC9D3DE37F.jpg",
         "tags": "Length_4"
@@ -1354,7 +1354,7 @@
     {
         "number": 170,
         "word": "plum",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "plum.mp3",
         "imageFileName": "70B33BD5-616C-4DF1-B232-98DC9D3DE37F.jpg",
         "tags": "Length_4"
@@ -1362,7 +1362,7 @@
     {
         "number": 171,
         "word": "plant",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "plant.mp3",
         "imageFileName": "70B33BD5-616C-4DF1-B232-98DC9D3DE37F.jpg",
         "tags": "Length_5"
@@ -1386,7 +1386,7 @@
     {
         "number": 174,
         "word": "prize",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "prize.mp3",
         "imageFileName": "3CC2FE5D-7E28-4743-B379-572CD7BA83E4.jpg",
         "tags": "Length_5"
@@ -1394,7 +1394,7 @@
     {
         "number": 175,
         "word": "ship",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ship.mp3",
         "imageFileName": "3DDFD84A-FE0B-4CD2-9420-0CE700F806E7.jpg",
         "tags": "Length_4"
@@ -1402,7 +1402,7 @@
     {
         "number": 176,
         "word": "shop",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "shop.mp3",
         "imageFileName": "3DDFD84A-FE0B-4CD2-9420-0CE700F806E7.jpg",
         "tags": "Length_4"
@@ -1410,7 +1410,7 @@
     {
         "number": 177,
         "word": "fish",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fish.mp3",
         "imageFileName": "3DDFD84A-FE0B-4CD2-9420-0CE700F806E7.jpg",
         "tags": "Length_4"
@@ -1418,7 +1418,7 @@
     {
         "number": 178,
         "word": "skunk",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "skunk.mp3",
         "imageFileName": "0D825F3E-B711-4F7F-BC97-AC268B746EB7.jpg",
         "tags": "Length_5"
@@ -1426,7 +1426,7 @@
     {
         "number": 179,
         "word": "skirt",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "skirt.mp3",
         "imageFileName": "0D825F3E-B711-4F7F-BC97-AC268B746EB7.jpg",
         "tags": "Length_5"
@@ -1434,7 +1434,7 @@
     {
         "number": 180,
         "word": "mask",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "mask.mp3",
         "imageFileName": "0D825F3E-B711-4F7F-BC97-AC268B746EB7.jpg",
         "tags": "Length_4"
@@ -1442,7 +1442,7 @@
     {
         "number": 181,
         "word": "slug",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "slug.mp3",
         "imageFileName": "7FEF8861-460F-4E79-89B9-64BBDC2C30D2.jpg",
         "tags": "Length_4"
@@ -1450,7 +1450,7 @@
     {
         "number": 182,
         "word": "sled",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sled.mp3",
         "imageFileName": "7FEF8861-460F-4E79-89B9-64BBDC2C30D2.jpg",
         "tags": "Length_4"
@@ -1458,7 +1458,7 @@
     {
         "number": 183,
         "word": "slide",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "slide.mp3",
         "imageFileName": "7FEF8861-460F-4E79-89B9-64BBDC2C30D2.jpg",
         "tags": "Length_5"
@@ -1466,7 +1466,7 @@
     {
         "number": 184,
         "word": "smell",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "smell.mp3",
         "imageFileName": "926157C9-665A-4F5D-8526-739F4654C0B6.jpg",
         "tags": "Length_5"
@@ -1474,7 +1474,7 @@
     {
         "number": 185,
         "word": "smile",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "smile.mp3",
         "imageFileName": "926157C9-665A-4F5D-8526-739F4654C0B6.jpg",
         "tags": "Length_5"
@@ -1482,7 +1482,7 @@
     {
         "number": 186,
         "word": "smoke",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "smoke.mp3",
         "imageFileName": "926157C9-665A-4F5D-8526-739F4654C0B6.jpg",
         "tags": "Length_5"
@@ -1490,7 +1490,7 @@
     {
         "number": 187,
         "word": "snake",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "snake.mp3",
         "imageFileName": "3398BA66-F478-4C67-A702-C050E3026683.jpg",
         "tags": "Length_5"
@@ -1498,7 +1498,7 @@
     {
         "number": 188,
         "word": "snail",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "snail.mp3",
         "imageFileName": "3398BA66-F478-4C67-A702-C050E3026683.jpg",
         "tags": "Length_5"
@@ -1522,7 +1522,7 @@
     {
         "number": 191,
         "word": "spade",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "spade.mp3",
         "imageFileName": "1FED387D-8B27-4DE3-A705-36A2F2F3D489.jpg",
         "tags": "Length_5"
@@ -1530,7 +1530,7 @@
     {
         "number": 192,
         "word": "spoon",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "spoon.mp3",
         "imageFileName": "1FED387D-8B27-4DE3-A705-36A2F2F3D489.jpg",
         "tags": "Length_5"
@@ -1538,7 +1538,7 @@
     {
         "number": 193,
         "word": "stop",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "stop.mp3",
         "imageFileName": "8393C593-34C8-44AF-A0B3-DAFB226CCE4B.jpg",
         "tags": "Length_4"
@@ -1546,7 +1546,7 @@
     {
         "number": 194,
         "word": "stone",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "stone.mp3",
         "imageFileName": "8393C593-34C8-44AF-A0B3-DAFB226CCE4B.jpg",
         "tags": "Length_5"
@@ -1554,7 +1554,7 @@
     {
         "number": 195,
         "word": "fast",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fast.mp3",
         "imageFileName": "8393C593-34C8-44AF-A0B3-DAFB226CCE4B.jpg",
         "tags": "Length_4"
@@ -1562,7 +1562,7 @@
     {
         "number": 196,
         "word": "swim",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "swim.mp3",
         "imageFileName": "84E5ACF0-4145-4AC2-AFF8-F1E294D52F01.jpg",
         "tags": "Length_4"
@@ -1570,7 +1570,7 @@
     {
         "number": 197,
         "word": "swan",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "swan.mp3",
         "imageFileName": "84E5ACF0-4145-4AC2-AFF8-F1E294D52F01.jpg",
         "tags": "Length_4"
@@ -1578,7 +1578,7 @@
     {
         "number": 198,
         "word": "sweets",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sweets.mp3",
         "imageFileName": "84E5ACF0-4145-4AC2-AFF8-F1E294D52F01.jpg",
         "tags": "Length_6"
@@ -1586,7 +1586,7 @@
     {
         "number": 199,
         "word": "three",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "three.mp3",
         "imageFileName": "8858FD5E-AB8E-4E3B-8F9F-192288F08B81.jpg",
         "tags": "Length_5"
@@ -1610,7 +1610,7 @@
     {
         "number": 202,
         "word": "truck",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "truck.mp3",
         "imageFileName": "65102955-819F-4672-98BD-F600CFADAFC6.jpg",
         "tags": "Length_5"
@@ -1618,7 +1618,7 @@
     {
         "number": 203,
         "word": "tree",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tree.mp3",
         "imageFileName": "65102955-819F-4672-98BD-F600CFADAFC6.jpg",
         "tags": "Length_4"
@@ -1634,7 +1634,7 @@
     {
         "number": 205,
         "word": "twins",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "twins.mp3",
         "imageFileName": "08852FD4-DD3B-4D9B-99FE-7131DB5B4DA3.jpg",
         "tags": "Length_5"
@@ -1642,7 +1642,7 @@
     {
         "number": 206,
         "word": "twelve",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "twelve.mp3",
         "imageFileName": "08852FD4-DD3B-4D9B-99FE-7131DB5B4DA3.jpg",
         "tags": "Length_6"
@@ -1682,7 +1682,7 @@
     {
         "number": 211,
         "word": "tube",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tube.mp3",
         "imageFileName": "7F7EB362-5A46-4F5F-BF66-C0774FB5669E.jpg",
         "tags": "Length_4"
@@ -1690,7 +1690,7 @@
     {
         "number": 212,
         "word": "cube",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cube.mp3",
         "imageFileName": "7F7EB362-5A46-4F5F-BF66-C0774FB5669E.jpg",
         "tags": "Length_4"
@@ -1698,7 +1698,7 @@
     {
         "number": 213,
         "word": "mute",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "mute.mp3",
         "imageFileName": "7F7EB362-5A46-4F5F-BF66-C0774FB5669E.jpg",
         "tags": "Length_4"
@@ -1706,7 +1706,7 @@
     {
         "number": 214,
         "word": "what",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "what.mp3",
         "imageFileName": "93925B81-05E3-4C0F-818F-AEB6368B6CC3.jpg",
         "tags": "Length_4"
@@ -1714,7 +1714,7 @@
     {
         "number": 215,
         "word": "when",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "when.mp3",
         "imageFileName": "93925B81-05E3-4C0F-818F-AEB6368B6CC3.jpg",
         "tags": "Length_4"
@@ -1722,7 +1722,7 @@
     {
         "number": 216,
         "word": "where",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "where.mp3",
         "imageFileName": "93925B81-05E3-4C0F-818F-AEB6368B6CC3.jpg",
         "tags": "Length_5"
@@ -1730,7 +1730,7 @@
     {
         "number": 217,
         "word": "rain",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "rain.mp3",
         "imageFileName": "90D59961-ECD9-4703-A785-BD447F891FFD.jpg",
         "tags": "Length_4"
@@ -1738,7 +1738,7 @@
     {
         "number": 218,
         "word": "paint",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "paint.mp3",
         "imageFileName": "90D59961-ECD9-4703-A785-BD447F891FFD.jpg",
         "tags": "Length_5"
@@ -1746,7 +1746,7 @@
     {
         "number": 219,
         "word": "train",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "train.mp3",
         "imageFileName": "90D59961-ECD9-4703-A785-BD447F891FFD.jpg",
         "tags": "Length_5"
@@ -1754,7 +1754,7 @@
     {
         "number": 220,
         "word": "car",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "car.mp3",
         "imageFileName": "D70C9A70-106D-45E4-8016-D7A31FB7DFBA.jpg",
         "tags": "Length_3"
@@ -1762,7 +1762,7 @@
     {
         "number": 221,
         "word": "star",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "star.mp3",
         "imageFileName": "D70C9A70-106D-45E4-8016-D7A31FB7DFBA.jpg",
         "tags": "Length_4"
@@ -1770,7 +1770,7 @@
     {
         "number": 222,
         "word": "art",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "art.mp3",
         "imageFileName": "D70C9A70-106D-45E4-8016-D7A31FB7DFBA.jpg",
         "tags": "Length_3"
@@ -1778,7 +1778,7 @@
     {
         "number": 223,
         "word": "paw",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "paw.mp3",
         "imageFileName": "0655C8BA-464C-4B96-9B59-9F92961FBA86.jpg",
         "tags": "Length_3"
@@ -1786,7 +1786,7 @@
     {
         "number": 224,
         "word": "saw",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "saw.mp3",
         "imageFileName": "0655C8BA-464C-4B96-9B59-9F92961FBA86.jpg",
         "tags": "Length_3"
@@ -1794,7 +1794,7 @@
     {
         "number": 225,
         "word": "hawk",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "hawk.mp3",
         "imageFileName": "0655C8BA-464C-4B96-9B59-9F92961FBA86.jpg",
         "tags": "Length_4"
@@ -1802,7 +1802,7 @@
     {
         "number": 226,
         "word": "day",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "day.mp3",
         "imageFileName": "CCAECD84-241F-4040-A320-1227BB21EC61.jpg",
         "tags": "Length_3"
@@ -1810,7 +1810,7 @@
     {
         "number": 227,
         "word": "play",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "play.mp3",
         "imageFileName": "CCAECD84-241F-4040-A320-1227BB21EC61.jpg",
         "tags": "Length_4"
@@ -1826,7 +1826,7 @@
     {
         "number": 229,
         "word": "cent",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cent.mp3",
         "imageFileName": "DF8742A3-0E93-444C-909C-E103DFC5608B.jpg",
         "tags": "Length_4"
@@ -1834,7 +1834,7 @@
     {
         "number": 230,
         "word": "rice",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "rice.mp3",
         "imageFileName": "DF8742A3-0E93-444C-909C-E103DFC5608B.jpg",
         "tags": "Length_4"
@@ -1850,7 +1850,7 @@
     {
         "number": 232,
         "word": "head",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "head.mp3",
         "imageFileName": "86C14CF6-88A3-40D1-BECE-28A4D9640D4B.jpg",
         "tags": "Length_4"
@@ -1858,7 +1858,7 @@
     {
         "number": 233,
         "word": "bread",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bread.mp3",
         "imageFileName": "86C14CF6-88A3-40D1-BECE-28A4D9640D4B.jpg",
         "tags": "Length_5"
@@ -1874,7 +1874,7 @@
     {
         "number": 235,
         "word": "bean",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bean.mp3",
         "imageFileName": "3463B57E-5BE6-4EF4-B283-44BB56663538.jpg",
         "tags": "Length_4"
@@ -1882,7 +1882,7 @@
     {
         "number": 236,
         "word": "leaf",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "leaf.mp3",
         "imageFileName": "3463B57E-5BE6-4EF4-B283-44BB56663538.jpg",
         "tags": "Length_4"
@@ -1890,7 +1890,7 @@
     {
         "number": 237,
         "word": "beach",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "beach.mp3",
         "imageFileName": "3463B57E-5BE6-4EF4-B283-44BB56663538.jpg",
         "tags": "Length_5"
@@ -1898,7 +1898,7 @@
     {
         "number": 238,
         "word": "eel",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "eel.mp3",
         "imageFileName": "3EC67DC7-A846-42E1-A150-E7F6B11BE2BC.jpg",
         "tags": "Length_3"
@@ -1906,7 +1906,7 @@
     {
         "number": 239,
         "word": "bee",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bee.mp3",
         "imageFileName": "3EC67DC7-A846-42E1-A150-E7F6B11BE2BC.jpg",
         "tags": "Length_3"
@@ -1914,7 +1914,7 @@
     {
         "number": 240,
         "word": "jeep",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "jeep.mp3",
         "imageFileName": "3EC67DC7-A846-42E1-A150-E7F6B11BE2BC.jpg",
         "tags": "Length_4"
@@ -1922,7 +1922,7 @@
     {
         "number": 241,
         "word": "herbs",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "herbs.mp3",
         "imageFileName": "0816AA94-C0C2-4220-834F-6D3AA2392B12.jpg",
         "tags": "Length_5"
@@ -1930,7 +1930,7 @@
     {
         "number": 242,
         "word": "fern",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fern.mp3",
         "imageFileName": "0816AA94-C0C2-4220-834F-6D3AA2392B12.jpg",
         "tags": "Length_4"
@@ -1970,7 +1970,7 @@
     {
         "number": 247,
         "word": "key",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "key.mp3",
         "imageFileName": "D6471D84-CFEA-4031-BD67-7387080AE7CC.jpg",
         "tags": "Length_3"
@@ -1994,7 +1994,7 @@
     {
         "number": 250,
         "word": "gem",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "gem.mp3",
         "imageFileName": "0074CA88-3829-432A-826D-0D6F3AD48BD9.jpg",
         "tags": "Length_3"
@@ -2018,7 +2018,7 @@
     {
         "number": 253,
         "word": "gnat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "gnat.mp3",
         "imageFileName": "ED5E486B-5D01-443F-8206-63A2D66A3EBC.jpg",
         "tags": "Length_4"
@@ -2026,7 +2026,7 @@
     {
         "number": 254,
         "word": "sign",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sign.mp3",
         "imageFileName": "ED5E486B-5D01-443F-8206-63A2D66A3EBC.jpg",
         "tags": "Length_4"
@@ -2034,7 +2034,7 @@
     {
         "number": 255,
         "word": "gnome",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "gnome.mp3",
         "imageFileName": "ED5E486B-5D01-443F-8206-63A2D66A3EBC.jpg",
         "tags": "Length_5"
@@ -2050,7 +2050,7 @@
     {
         "number": 257,
         "word": "skis",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "skis.mp3",
         "imageFileName": "31AB411A-1F40-4443-AE32-0360964C7416.jpg",
         "tags": "Length_4"
@@ -2074,7 +2074,7 @@
     {
         "number": 260,
         "word": "shield",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "shield.mp3",
         "imageFileName": "AA9826AE-EB1B-41E6-9EAF-4833BA72B191.jpg",
         "tags": "Length_6"
@@ -2090,7 +2090,7 @@
     {
         "number": 262,
         "word": "night",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "night.mp3",
         "imageFileName": "ADA8CDF8-92EC-45CA-A910-E1573FE8FADB.jpg",
         "tags": "Length_5"
@@ -2098,7 +2098,7 @@
     {
         "number": 263,
         "word": "light",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "light.mp3",
         "imageFileName": "ADA8CDF8-92EC-45CA-A910-E1573FE8FADB.jpg",
         "tags": "Length_5"
@@ -2106,7 +2106,7 @@
     {
         "number": 264,
         "word": "right",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "right.mp3",
         "imageFileName": "ADA8CDF8-92EC-45CA-A910-E1573FE8FADB.jpg",
         "tags": "Length_5"
@@ -2114,7 +2114,7 @@
     {
         "number": 265,
         "word": "bird",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bird.mp3",
         "imageFileName": "0E47752D-CAEB-4310-9DF8-C25491CB7F97.jpg",
         "tags": "Length_4"
@@ -2122,7 +2122,7 @@
     {
         "number": 266,
         "word": "girl",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "girl.mp3",
         "imageFileName": "0E47752D-CAEB-4310-9DF8-C25491CB7F97.jpg",
         "tags": "Length_4"
@@ -2130,7 +2130,7 @@
     {
         "number": 267,
         "word": "shirt",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "shirt.mp3",
         "imageFileName": "0E47752D-CAEB-4310-9DF8-C25491CB7F97.jpg",
         "tags": "Length_5"
@@ -2138,7 +2138,7 @@
     {
         "number": 268,
         "word": "knot",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "knot.mp3",
         "imageFileName": "84F463E4-9DD9-419C-B1FF-090C8F34B95C.jpg",
         "tags": "Length_4"
@@ -2146,7 +2146,7 @@
     {
         "number": 269,
         "word": "knife",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "knife.mp3",
         "imageFileName": "84F463E4-9DD9-419C-B1FF-090C8F34B95C.jpg",
         "tags": "Length_5"
@@ -2154,7 +2154,7 @@
     {
         "number": 270,
         "word": "knight",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "knight.mp3",
         "imageFileName": "84F463E4-9DD9-419C-B1FF-090C8F34B95C.jpg",
         "tags": "Length_6"
@@ -2186,7 +2186,7 @@
     {
         "number": 274,
         "word": "boat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "boat.mp3",
         "imageFileName": "EBB92666-2F2D-477E-9BC0-36BA79EEA006.jpg",
         "tags": "Length_4"
@@ -2194,7 +2194,7 @@
     {
         "number": 275,
         "word": "goat",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "goat.mp3",
         "imageFileName": "EBB92666-2F2D-477E-9BC0-36BA79EEA006.jpg",
         "tags": "Length_4"
@@ -2202,7 +2202,7 @@
     {
         "number": 276,
         "word": "soap",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "soap.mp3",
         "imageFileName": "EBB92666-2F2D-477E-9BC0-36BA79EEA006.jpg",
         "tags": "Length_4"
@@ -2210,7 +2210,7 @@
     {
         "number": 277,
         "word": "oil",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "oil.mp3",
         "imageFileName": "64896AB0-614E-455D-A65C-FE8158021C68.jpg",
         "tags": "Length_3"
@@ -2218,7 +2218,7 @@
     {
         "number": 278,
         "word": "coins",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "coins.mp3",
         "imageFileName": "64896AB0-614E-455D-A65C-FE8158021C68.jpg",
         "tags": "Length_5"
@@ -2234,7 +2234,7 @@
     {
         "number": 280,
         "word": "book",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "book.mp3",
         "imageFileName": "4FFB3AD6-CD70-4CDB-BE09-2A8A9C9E19B1.jpg",
         "tags": "Length_4"
@@ -2242,7 +2242,7 @@
     {
         "number": 281,
         "word": "cook",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cook.mp3",
         "imageFileName": "4FFB3AD6-CD70-4CDB-BE09-2A8A9C9E19B1.jpg",
         "tags": "Length_4"
@@ -2250,7 +2250,7 @@
     {
         "number": 282,
         "word": "foot",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "foot.mp3",
         "imageFileName": "4FFB3AD6-CD70-4CDB-BE09-2A8A9C9E19B1.jpg",
         "tags": "Length_4"
@@ -2258,7 +2258,7 @@
     {
         "number": 283,
         "word": "moon",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "moon.mp3",
         "imageFileName": "BAD08518-3D5B-402A-9A7E-3A63FED22E8C.jpg",
         "tags": "Length_4"
@@ -2266,7 +2266,7 @@
     {
         "number": 284,
         "word": "boots",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "boots.mp3",
         "imageFileName": "BAD08518-3D5B-402A-9A7E-3A63FED22E8C.jpg",
         "tags": "Length_5"
@@ -2282,7 +2282,7 @@
     {
         "number": 286,
         "word": "corn",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "corn.mp3",
         "imageFileName": "F33286AE-0B07-4627-9F80-54E931698489.jpg",
         "tags": "Length_4"
@@ -2290,7 +2290,7 @@
     {
         "number": 287,
         "word": "fork",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fork.mp3",
         "imageFileName": "F33286AE-0B07-4627-9F80-54E931698489.jpg",
         "tags": "Length_4"
@@ -2298,7 +2298,7 @@
     {
         "number": 288,
         "word": "sports",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sports.mp3",
         "imageFileName": "F33286AE-0B07-4627-9F80-54E931698489.jpg",
         "tags": "Length_6"
@@ -2306,7 +2306,7 @@
     {
         "number": 289,
         "word": "cloud",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cloud.mp3",
         "imageFileName": "20F61D05-75E4-44B1-AE17-DA45419B4CD3.jpg",
         "tags": "Length_5"
@@ -2314,7 +2314,7 @@
     {
         "number": 290,
         "word": "house",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "house.mp3",
         "imageFileName": "20F61D05-75E4-44B1-AE17-DA45419B4CD3.jpg",
         "tags": "Length_5"
@@ -2322,7 +2322,7 @@
     {
         "number": 291,
         "word": "mouse",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "mouse.mp3",
         "imageFileName": "20F61D05-75E4-44B1-AE17-DA45419B4CD3.jpg",
         "tags": "Length_5"
@@ -2330,7 +2330,7 @@
     {
         "number": 292,
         "word": "owl",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "owl.mp3",
         "imageFileName": "1E9FAB9F-F871-4EAC-B78C-14581824BF4A.jpg",
         "tags": "Length_3"
@@ -2338,7 +2338,7 @@
     {
         "number": 293,
         "word": "cow",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cow.mp3",
         "imageFileName": "1E9FAB9F-F871-4EAC-B78C-14581824BF4A.jpg",
         "tags": "Length_3"
@@ -2346,7 +2346,7 @@
     {
         "number": 294,
         "word": "down",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "down.mp3",
         "imageFileName": "1E9FAB9F-F871-4EAC-B78C-14581824BF4A.jpg",
         "tags": "Length_4"
@@ -2354,7 +2354,7 @@
     {
         "number": 295,
         "word": "bow",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bow.mp3",
         "imageFileName": "E2C7F896-67B3-40DE-9C82-9CB30B8D51A8.jpg",
         "tags": "Length_3"
@@ -2370,7 +2370,7 @@
     {
         "number": 298,
         "word": "toys",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "toys.mp3",
         "imageFileName": "624EC1B9-AEE5-48EC-A1A4-2FB8337DE7E4.jpg",
         "tags": "Length_4"
@@ -2378,7 +2378,7 @@
     {
         "number": 299,
         "word": "boy",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "boy.mp3",
         "imageFileName": "624EC1B9-AEE5-48EC-A1A4-2FB8337DE7E4.jpg",
         "tags": "Length_3"
@@ -2394,7 +2394,7 @@
     {
         "number": 301,
         "word": "spring",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "spring.mp3",
         "imageFileName": "A6C136DC-6808-4655-84E2-B61ECFE133B7.jpg",
         "tags": "Length_6"
@@ -2402,7 +2402,7 @@
     {
         "number": 302,
         "word": "spray",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "spray.mp3",
         "imageFileName": "A6C136DC-6808-4655-84E2-B61ECFE133B7.jpg",
         "tags": "Length_5"
@@ -2410,7 +2410,7 @@
     {
         "number": 303,
         "word": "sprout",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sprout.mp3",
         "imageFileName": "A6C136DC-6808-4655-84E2-B61ECFE133B7.jpg",
         "tags": "Length_6"
@@ -2418,7 +2418,7 @@
     {
         "number": 304,
         "word": "strong",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "strong.mp3",
         "imageFileName": "DB3A756B-5139-4BBA-BE01-0801F73E17E4.jpg",
         "tags": "Length_6"
@@ -2426,7 +2426,7 @@
     {
         "number": 305,
         "word": "string",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "string.mp3",
         "imageFileName": "DB3A756B-5139-4BBA-BE01-0801F73E17E4.jpg",
         "tags": "Length_6"
@@ -2434,7 +2434,7 @@
     {
         "number": 306,
         "word": "stripes",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "stripes.mp3",
         "imageFileName": "DB3A756B-5139-4BBA-BE01-0801F73E17E4.jpg",
         "tags": "Length_7"
@@ -2442,7 +2442,7 @@
     {
         "number": 307,
         "word": "this",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "this.mp3",
         "imageFileName": "5EA5FCAC-2835-4C94-92A4-2C2655EF8DEC.jpg",
         "tags": "Length_4"
@@ -2450,7 +2450,7 @@
     {
         "number": 308,
         "word": "that",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "that.mp3",
         "imageFileName": "5EA5FCAC-2835-4C94-92A4-2C2655EF8DEC.jpg",
         "tags": "Length_4"
@@ -2466,7 +2466,7 @@
     {
         "number": 310,
         "word": "blue",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "blue.mp3",
         "imageFileName": "3FEFA1EA-128F-4B9F-9FE3-D9126894022C.jpg",
         "tags": "Length_4"
@@ -2474,7 +2474,7 @@
     {
         "number": 311,
         "word": "glue",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "glue.mp3",
         "imageFileName": "3FEFA1EA-128F-4B9F-9FE3-D9126894022C.jpg",
         "tags": "Length_4"
@@ -2482,7 +2482,7 @@
     {
         "number": 312,
         "word": "clue",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "clue.mp3",
         "imageFileName": "3FEFA1EA-128F-4B9F-9FE3-D9126894022C.jpg",
         "tags": "Length_4"
@@ -2490,7 +2490,7 @@
     {
         "number": 313,
         "word": "fruit",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fruit.mp3",
         "imageFileName": "763D4D4F-D7E0-4AD4-8477-D57C658B9E63.jpg",
         "tags": "Length_5"
@@ -2498,7 +2498,7 @@
     {
         "number": 314,
         "word": "suit",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "suit.mp3",
         "imageFileName": "763D4D4F-D7E0-4AD4-8477-D57C658B9E63.jpg",
         "tags": "Length_4"
@@ -2506,7 +2506,7 @@
     {
         "number": 315,
         "word": "juice",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "juice.mp3",
         "imageFileName": "763D4D4F-D7E0-4AD4-8477-D57C658B9E63.jpg",
         "tags": "Length_5"
@@ -2538,7 +2538,7 @@
     {
         "number": 319,
         "word": "sky",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sky.mp3",
         "imageFileName": "868EF27A-1165-4931-B851-D2E6013C548C.jpg",
         "tags": "Length_3"
@@ -2546,7 +2546,7 @@
     {
         "number": 320,
         "word": "spy",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "spy.mp3",
         "imageFileName": "868EF27A-1165-4931-B851-D2E6013C548C.jpg",
         "tags": "Length_3"
@@ -2610,7 +2610,7 @@
     {
         "number": 328,
         "word": "nail",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "nail.mp3",
         "imageFileName": "61CB9236-08FE-4508-BB12-A083A160C915.jpg",
         "tags": "Length_4"
@@ -2618,7 +2618,7 @@
     {
         "number": 329,
         "word": "tail",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tail.mp3",
         "imageFileName": "61CB9236-08FE-4508-BB12-A083A160C915.jpg",
         "tags": "Length_4"
@@ -2634,7 +2634,7 @@
     {
         "number": 331,
         "word": "hair",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "hair.mp3",
         "imageFileName": "C2B7E219-7E38-4B27-950F-887000283F2D.jpg",
         "tags": "Length_4"
@@ -2642,7 +2642,7 @@
     {
         "number": 332,
         "word": "stairs",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "stairs.mp3",
         "imageFileName": "C2B7E219-7E38-4B27-950F-887000283F2D.jpg",
         "tags": "Length_6"
@@ -2658,7 +2658,7 @@
     {
         "number": 334,
         "word": "talk",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "talk.mp3",
         "imageFileName": "5FEBCC72-9170-4EB4-9A20-B030A6281733.jpg",
         "tags": "Length_4"
@@ -2666,7 +2666,7 @@
     {
         "number": 335,
         "word": "walk",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "walk.mp3",
         "imageFileName": "5FEBCC72-9170-4EB4-9A20-B030A6281733.jpg",
         "tags": "Length_4"
@@ -2674,7 +2674,7 @@
     {
         "number": 336,
         "word": "chalk",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "chalk.mp3",
         "imageFileName": "5FEBCC72-9170-4EB4-9A20-B030A6281733.jpg",
         "tags": "Length_5"
@@ -2682,7 +2682,7 @@
     {
         "number": 337,
         "word": "ball",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ball.mp3",
         "imageFileName": "60F15148-7755-43C7-9307-D6ECD6BD4946.jpg",
         "tags": "Length_4"
@@ -2690,7 +2690,7 @@
     {
         "number": 338,
         "word": "small",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "small.mp3",
         "imageFileName": "60F15148-7755-43C7-9307-D6ECD6BD4946.jpg",
         "tags": "Length_5"
@@ -2730,7 +2730,7 @@
     {
         "number": 343,
         "word": "square",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "square.mp3",
         "imageFileName": "E56876EE-A721-4F11-82B9-6672B98F5F37.jpg",
         "tags": "Length_6"
@@ -2738,7 +2738,7 @@
     {
         "number": 344,
         "word": "scared",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "scared.mp3",
         "imageFileName": "E56876EE-A721-4F11-82B9-6672B98F5F37.jpg",
         "tags": "Length_6"
@@ -2762,7 +2762,7 @@
     {
         "number": 347,
         "word": "sauce",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sauce.mp3",
         "imageFileName": "6FADD951-175F-4BF7-B00E-7C84CA63383C.jpg",
         "tags": "Length_5"
@@ -2778,7 +2778,7 @@
     {
         "number": 349,
         "word": "ice",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ice.mp3",
         "imageFileName": "7352D33C-953B-4C0C-9575-933BDB70C7CD.jpg",
         "tags": "Length_3"
@@ -2786,7 +2786,7 @@
     {
         "number": 350,
         "word": "dance",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "dance.mp3",
         "imageFileName": "7352D33C-953B-4C0C-9575-933BDB70C7CD.jpg",
         "tags": "Length_5"
@@ -2794,7 +2794,7 @@
     {
         "number": 351,
         "word": "space",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "space.mp3",
         "imageFileName": "7352D33C-953B-4C0C-9575-933BDB70C7CD.jpg",
         "tags": "Length_5"
@@ -2810,7 +2810,7 @@
     {
         "number": 353,
         "word": "school",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "school.mp3",
         "imageFileName": "D6B527CB-F974-46B7-93BD-16982735EB84.jpg",
         "tags": "Length_6"
@@ -2826,7 +2826,7 @@
     {
         "number": 355,
         "word": "chef",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "chef.mp3",
         "imageFileName": "8023C861-EE2B-4267-9585-62304D154DD7.jpg",
         "tags": "Length_4"
@@ -2850,7 +2850,7 @@
     {
         "number": 358,
         "word": "badge",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "badge.mp3",
         "imageFileName": "0D6904D4-34A2-48D0-8868-2A458D150DCF.jpg",
         "tags": "Length_5"
@@ -2858,7 +2858,7 @@
     {
         "number": 359,
         "word": "judge",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "judge.mp3",
         "imageFileName": "0D6904D4-34A2-48D0-8868-2A458D150DCF.jpg",
         "tags": "Length_5"
@@ -2866,7 +2866,7 @@
     {
         "number": 360,
         "word": "bridge",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bridge.mp3",
         "imageFileName": "0D6904D4-34A2-48D0-8868-2A458D150DCF.jpg",
         "tags": "Length_6"
@@ -2898,7 +2898,7 @@
     {
         "number": 364,
         "word": "ear",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ear.mp3",
         "imageFileName": "BFE1E964-341B-4FBE-A942-BA8E9EAA1263.jpg",
         "tags": "Length_3"
@@ -2906,7 +2906,7 @@
     {
         "number": 365,
         "word": "beard",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "beard.mp3",
         "imageFileName": "BFE1E964-341B-4FBE-A942-BA8E9EAA1263.jpg",
         "tags": "Length_5"
@@ -2914,7 +2914,7 @@
     {
         "number": 366,
         "word": "tears",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tears.mp3",
         "imageFileName": "BFE1E964-341B-4FBE-A942-BA8E9EAA1263.jpg",
         "tags": "Length_5"
@@ -2922,7 +2922,7 @@
     {
         "number": 367,
         "word": "earth",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "earth.mp3",
         "imageFileName": "5809DFDF-B41A-471E-9EB4-EFA9E6E3879E.jpg",
         "tags": "Length_5"
@@ -2930,7 +2930,7 @@
     {
         "number": 368,
         "word": "pearl",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "pearl.mp3",
         "imageFileName": "5809DFDF-B41A-471E-9EB4-EFA9E6E3879E.jpg",
         "tags": "Length_5"
@@ -2938,7 +2938,7 @@
     {
         "number": 369,
         "word": "learn",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "learn.mp3",
         "imageFileName": "5809DFDF-B41A-471E-9EB4-EFA9E6E3879E.jpg",
         "tags": "Length_5"
@@ -2946,7 +2946,7 @@
     {
         "number": 370,
         "word": "bear",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bear.mp3",
         "imageFileName": "AF9B13CF-A6B9-4608-A1CC-99C76101F8CA.jpg",
         "tags": "Length_4"
@@ -2954,7 +2954,7 @@
     {
         "number": 371,
         "word": "pear",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "pear.mp3",
         "imageFileName": "AF9B13CF-A6B9-4608-A1CC-99C76101F8CA.jpg",
         "tags": "Length_4"
@@ -2970,7 +2970,7 @@
     {
         "number": 373,
         "word": "eight",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "eight.mp3",
         "imageFileName": "0BC0A697-7CF0-4CAF-B99E-C55B1178564F.jpg",
         "tags": "Length_5"
@@ -2978,7 +2978,7 @@
     {
         "number": 374,
         "word": "sleigh",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "sleigh.mp3",
         "imageFileName": "0BC0A697-7CF0-4CAF-B99E-C55B1178564F.jpg",
         "tags": "Length_6"
@@ -2986,7 +2986,7 @@
     {
         "number": 375,
         "word": "weights",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "weights.mp3",
         "imageFileName": "0BC0A697-7CF0-4CAF-B99E-C55B1178564F.jpg",
         "tags": "Length_7"
@@ -3026,7 +3026,7 @@
     {
         "number": 380,
         "word": "screw",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "screw.mp3",
         "imageFileName": "490A1D87-AFD2-4AD5-8000-083A15754E33.jpg",
         "tags": "Length_5"
@@ -3042,7 +3042,7 @@
     {
         "number": 382,
         "word": "large",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "large.mp3",
         "imageFileName": "D19915A9-EB9B-44A8-B3C2-9C28657586A9.jpg",
         "tags": "Length_5"
@@ -3058,7 +3058,7 @@
     {
         "number": 384,
         "word": "cage",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cage.mp3",
         "imageFileName": "D19915A9-EB9B-44A8-B3C2-9C28657586A9.jpg",
         "tags": "Length_4"
@@ -3066,7 +3066,7 @@
     {
         "number": 385,
         "word": "ghost",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ghost.mp3",
         "imageFileName": "2E66E020-DC3F-481E-A932-D5A6B931BB14.jpg",
         "tags": "Length_5"
@@ -3074,7 +3074,7 @@
     {
         "number": 386,
         "word": "ghoul",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "ghoul.mp3",
         "imageFileName": "2E66E020-DC3F-481E-A932-D5A6B931BB14.jpg",
         "tags": "Length_5"
@@ -3090,7 +3090,7 @@
     {
         "number": 388,
         "word": "cough",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "cough.mp3",
         "imageFileName": "5742AD7F-907E-4B0C-B8E3-E221276635FD.jpg",
         "tags": "Length_5"
@@ -3098,7 +3098,7 @@
     {
         "number": 389,
         "word": "laugh",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "laugh.mp3",
         "imageFileName": "5742AD7F-907E-4B0C-B8E3-E221276635FD.jpg",
         "tags": "Length_5"
@@ -3106,7 +3106,7 @@
     {
         "number": 390,
         "word": "tough guy",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tough guy.mp3",
         "imageFileName": "5742AD7F-907E-4B0C-B8E3-E221276635FD.jpg",
         "tags": "Length_9"
@@ -3114,7 +3114,7 @@
     {
         "number": 391,
         "word": "pie",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "pie.mp3",
         "imageFileName": "3D6DCF9D-20E2-44F1-B7F5-8E4E181F25D3.jpg",
         "tags": "Length_3"
@@ -3122,7 +3122,7 @@
     {
         "number": 392,
         "word": "tie",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "tie.mp3",
         "imageFileName": "3D6DCF9D-20E2-44F1-B7F5-8E4E181F25D3.jpg",
         "tags": "Length_3"
@@ -3130,7 +3130,7 @@
     {
         "number": 393,
         "word": "fries",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "fries.mp3",
         "imageFileName": "3D6DCF9D-20E2-44F1-B7F5-8E4E181F25D3.jpg",
         "tags": "Length_5"
@@ -3138,7 +3138,7 @@
     {
         "number": 394,
         "word": "thumb",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "thumb.mp3",
         "imageFileName": "F7E9B4A7-00B2-4842-82E2-73FBCD7A6075.jpg",
         "tags": "Length_5"
@@ -3146,7 +3146,7 @@
     {
         "number": 395,
         "word": "bomb",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "bomb.mp3",
         "imageFileName": "F7E9B4A7-00B2-4842-82E2-73FBCD7A6075.jpg",
         "tags": "Length_4"
@@ -3154,7 +3154,7 @@
     {
         "number": 396,
         "word": "lamb",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "lamb.mp3",
         "imageFileName": "F7E9B4A7-00B2-4842-82E2-73FBCD7A6075.jpg",
         "tags": "Length_4"
@@ -3162,7 +3162,7 @@
     {
         "number": 397,
         "word": "love",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "love.mp3",
         "imageFileName": "CFA6CAFA-A0B0-4EE8-A310-085E1646EC01.jpg",
         "tags": "Length_4"
@@ -3186,7 +3186,7 @@
     {
         "number": 400,
         "word": "core",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "core.mp3",
         "imageFileName": "7B73004F-0E19-41E8-8FBC-DAD859A4051F.jpg",
         "tags": "Length_4"
@@ -3194,7 +3194,7 @@
     {
         "number": 401,
         "word": "store",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "store.mp3",
         "imageFileName": "7B73004F-0E19-41E8-8FBC-DAD859A4051F.jpg",
         "tags": "Length_5"
@@ -3202,7 +3202,7 @@
     {
         "number": 402,
         "word": "score",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "score.mp3",
         "imageFileName": "7B73004F-0E19-41E8-8FBC-DAD859A4051F.jpg",
         "tags": "Length_5"
@@ -3218,7 +3218,7 @@
     {
         "number": 404,
         "word": "rhyme",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "rhyme.mp3",
         "imageFileName": "1F82EE1B-E41B-42FE-AC31-B58F6085C608.jpg",
         "tags": "Length_5"
@@ -3330,7 +3330,7 @@
     {
         "number": 418,
         "word": "catch",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "catch.mp3",
         "imageFileName": "16B154C6-83ED-44D0-9DD9-AD9014DFCF55.jpg",
         "tags": "Length_5"
@@ -3338,7 +3338,7 @@
     {
         "number": 419,
         "word": "watch",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "watch.mp3",
         "imageFileName": "16B154C6-83ED-44D0-9DD9-AD9014DFCF55.jpg",
         "tags": "Length_5"
@@ -3402,7 +3402,7 @@
     {
         "number": 427,
         "word": "worm",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "worm.mp3",
         "imageFileName": "2DC28B31-ED5B-49D9-B459-827259D45996.jpg",
         "tags": "Length_4"
@@ -3410,7 +3410,7 @@
     {
         "number": 428,
         "word": "world",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "world.mp3",
         "imageFileName": "2DC28B31-ED5B-49D9-B459-827259D45996.jpg",
         "tags": "Length_5"
@@ -3418,7 +3418,7 @@
     {
         "number": 429,
         "word": "work",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "work.mp3",
         "imageFileName": "2DC28B31-ED5B-49D9-B459-827259D45996.jpg",
         "tags": "Length_4"
@@ -3426,7 +3426,7 @@
     {
         "number": 430,
         "word": "wrong",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "wrong.mp3",
         "imageFileName": "F9B5869B-83B0-4536-A011-E93BCE43857A.jpg",
         "tags": "Length_5"
@@ -3442,7 +3442,7 @@
     {
         "number": 432,
         "word": "write",
-        "syllables": NaN,
+        "syllables": "",
         "audioFileName": "write.mp3",
         "imageFileName": "F9B5869B-83B0-4536-A011-E93BCE43857A.jpg",
         "tags": "Length_5"

@@ -79,3 +79,21 @@ body {
 .hidden {
   display: none;
 }
+
+/* Responsive adjustments for smartphones */
+@media (max-width: 600px) {
+  .word {
+    font-size: 6vw; /* Increase the font size for smaller screens */
+  }
+
+  .image {
+    max-height: calc(
+      100vh - 220px
+    ); /* Ensure the image stays within the screen on smaller devices */
+  }
+
+  .button {
+    font-size: 1.4em; /* Increase button size slightly for smaller screens */
+    padding: 8px 16px;
+  }
+}

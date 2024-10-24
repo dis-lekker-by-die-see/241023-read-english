@@ -673,7 +673,7 @@ function createRadioButtons() {
 
     const label = document.createElement("label");
     label.htmlFor = `radio-${i}`;
-    label.textContent = `   ${i.toString()}   `;
+    label.textContent = `${i.toString()}   `;
 
     radioButtonContainer.appendChild(radioButton);
     radioButtonContainer.appendChild(label);

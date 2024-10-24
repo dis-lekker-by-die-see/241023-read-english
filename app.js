@@ -81,7 +81,7 @@ function createRadioButtons() {
         });
         var label = document.createElement("label");
         label.htmlFor = "radio-".concat(i);
-        label.textContent = "   ".concat(i.toString(), "   ");
+        label.textContent = "".concat(i.toString(), "   ");
         radioButtonContainer.appendChild(radioButton);
         radioButtonContainer.appendChild(label);
     }

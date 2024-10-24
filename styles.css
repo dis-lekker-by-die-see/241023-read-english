@@ -95,7 +95,7 @@ body {
   }
 
   .button {
-    font-size: 1.4em; /* Increase button size slightly for smaller screens */
+    font-size: 1em; /* Increase button size slightly for smaller screens */
     padding: 8px 16px;
   }
 }

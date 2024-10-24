@@ -663,6 +663,7 @@ function createRadioButtons() {
     radioButton.type = "radio";
     radioButton.name = "wordLengthGroup";
     radioButton.value = i.toString();
+    //radioButton.value = `|   ${i.toString()}   `;
     radioButton.id = `radio-${i}`;
     radioButton.checked = i === currentGroupIndex; // Default group is 2
     radioButton.addEventListener("change", (event) => {
@@ -672,7 +673,7 @@ function createRadioButtons() {
 
     const label = document.createElement("label");
     label.htmlFor = `radio-${i}`;
-    label.textContent = i.toString();
+    label.textContent = `   ${i.toString()}   `;
 
     radioButtonContainer.appendChild(radioButton);
     radioButtonContainer.appendChild(label);
@@ -718,7 +719,7 @@ function revealAnswer() {
     imageDisplay.classList.remove("hidden");
     audioPlayer.src = `./media/${currentMedia.audioFileName}`;
     audioPlayer.play();
-    answerButton.textContent = "OK";
+    answerButton.textContent = "Next"; //"OK"
     replayButton.classList.remove("hidden");
   }
 }

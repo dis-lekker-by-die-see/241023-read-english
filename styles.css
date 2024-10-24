@@ -5,7 +5,6 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  min-height: 600px; /* Enforce a minimum window height */
 }
 
 /* Main container that takes up full height */
@@ -15,57 +14,68 @@ body {
   justify-content: flex-start; /* Keep the word at the top */
   align-items: center;
   flex-grow: 1;
-  text-align: center;
   width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /* Word at the top */
 .word {
-  font-size: 2em;
-  font-weight: bold;
-  margin: 20px 0;
+  font-family: Comic Sans MS;
+  font-size: 4vw; /* Responsive font size */
+  margin-bottom: 10px;
+  flex-shrink: 0;
+  text-align: center;
 }
 
-/* Image that retains aspect ratio and grows within available space */
+/* Image that grows within available space between word and buttons */
 .image {
-  max-width: 100%; /* Ensures the image doesn't overflow horizontally */
-  height: auto; /* Maintains the aspect ratio */
-  width: auto; /* Maintains the aspect ratio */
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  flex-grow: 1; /* Allow the image to take up available space */
   max-height: calc(
-    100vh - 200px
-  ); /* Ensure it fills the space between word and buttons */
+    100vh - 260px
+  ); /* Ensure the image stays within the screen */
+  margin: 10px 0;
   display: block;
 }
 
 /* Button container fixed to bottom */
 .buttons {
-  position: fixed;
-  bottom: 0;
-  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  padding: 40px;
+  padding: 10px;
   background-color: white;
-  text-align: center;
-  height: 80px; /* Fix the height of the buttons */
+  height: auto;
+  flex-shrink: 0;
+  position: fixed;
+  bottom: 40px; /* Leave space for radio buttons */
 }
 
 /* Button styling */
 .button {
-  font-size: 1.5em;
-  padding: 10px 20px;
-  margin: 10px;
+  font-size: 1.2em;
+  padding: 5px 10px;
+
+  margin: 0 10px;
   cursor: pointer;
+  flex-shrink: 0;
+}
+
+/* Radio buttons container at the very bottom */
+#radioButtonContainer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
 }
 
 /* Hidden elements */
 .hidden {
   display: none;
-}
-
-/* Enforce a minimum window height */
-@media (min-height: 600px) {
-  html,
-  body {
-    min-height: 600px; /* Ensure the window can't be resized below this height */
-  }
 }

@@ -83,7 +83,7 @@ body {
 /* Responsive adjustments for smartphones */
 @media (max-width: 600px) {
   .word {
-    font-family: Chalkboard SE;
+    font-family: "Chalkboard SE", "Verdana", sans-serif;
     font-size: 11vw; /* Increase the font size for smaller screens */
     font-weight: 300;
   }

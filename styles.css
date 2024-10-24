@@ -85,7 +85,7 @@ body {
   .word {
     font-family: Chalkboard SE;
     font-size: 11vw; /* Increase the font size for smaller screens */
-    font-weight: 400;
+    font-weight: 300;
   }
 
   .image {

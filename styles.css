@@ -84,7 +84,8 @@ body {
 @media (max-width: 600px) {
   .word {
     font-family: Comic Sans MS;
-    font-size: 6vw; /* Increase the font size for smaller screens */
+    font-size: 10vw; /* Increase the font size for smaller screens */
+    font-weight: 500;
   }
 
   .image {

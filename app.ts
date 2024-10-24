@@ -377,6 +377,212 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
+// interface MediaItem {
+//   number: number;
+//   word: string;
+//   syllables: string | null;
+//   audioFileName: string;
+//   imageFileName: string;
+//   tags: string;
+// }
+
+// let mediaData: MediaItem[] = [];
+// let currentMedia: MediaItem | null = null;
+// let groupedMediaData: { [key: string]: MediaItem[] } = {}; // Group words by length
+// let currentGroupIndex = 2; // Starting group for Option 2 (Length_2)
+// let currentGroupItems: MediaItem[] = []; // Holds the remaining items in the current group
+// let isGroupedByLength = false; // Flag to track if option 2 is selected
+
+// const wordDisplay = document.getElementById("wordDisplay") as HTMLDivElement;
+// const imageDisplay = document.getElementById(
+//   "imageDisplay"
+// ) as HTMLImageElement;
+// const audioPlayer = document.getElementById("audioPlayer") as HTMLAudioElement;
+// const answerButton = document.getElementById(
+//   "answerButton"
+// ) as HTMLButtonElement;
+// const replayButton = document.getElementById(
+//   "replayButton"
+// ) as HTMLButtonElement;
+// const popupMenu = document.getElementById("popupMenu") as HTMLDivElement;
+// const option1Button = document.getElementById(
+//   "option1Button"
+// ) as HTMLButtonElement;
+// const option2Button = document.getElementById(
+//   "option2Button"
+// ) as HTMLButtonElement;
+
+// // Function to load the media.json file using XMLHttpRequest
+// function loadMediaData() {
+//   const xhr = new XMLHttpRequest();
+//   xhr.open("GET", "./media.json", true);
+
+//   xhr.onreadystatechange = function () {
+//     if (xhr.readyState === 4 && xhr.status === 200) {
+//       // Parse the JSON response
+//       try {
+//         mediaData = JSON.parse(xhr.responseText);
+//         console.log(`Loaded ${mediaData.length} items from media.json`);
+//         groupWordsByLength(); // Group words by length for option 2
+//         showPopupMenu(); // Show the menu after data is loaded
+//       } catch (error) {
+//         console.error("Error parsing JSON:", error);
+//       }
+//     }
+//   };
+
+//   xhr.onerror = function () {
+//     console.error("Network error while loading media data.");
+//   };
+
+//   xhr.send();
+// }
+
+// // Function to group words by length
+// function groupWordsByLength() {
+//   mediaData.forEach((item) => {
+//     const lengthTag = item.tags.match(/Length_\d+/);
+//     if (lengthTag) {
+//       const length = lengthTag[0]; // e.g., "Length_2"
+//       if (!groupedMediaData[length]) {
+//         groupedMediaData[length] = [];
+//       }
+//       groupedMediaData[length].push(item);
+//     }
+//   });
+// }
+
+// // Function to show the pop-up menu
+// function showPopupMenu() {
+//   popupMenu.style.display = "block";
+// }
+
+// // Function to hide the pop-up menu and start the selected mode
+// function hidePopupMenu() {
+//   popupMenu.style.display = "none";
+// }
+
+// // Function to select a random media item (Option 1: show all cards at random)
+// function getRandomMediaItem(): MediaItem {
+//   const randomIndex = Math.floor(Math.random() * mediaData.length);
+//   return mediaData[randomIndex];
+// }
+
+// // Function to select a random media item from the current group (Option 2: grouped by length)
+// function getRandomMediaItemFromGroup(): MediaItem | null {
+//   // If the current group is empty, move to the next length group
+//   if (currentGroupItems.length === 0) {
+//     currentGroupIndex++;
+//     const nextGroup = groupedMediaData[`Length_${currentGroupIndex}`];
+//     if (nextGroup && nextGroup.length > 0) {
+//       currentGroupItems = [...nextGroup]; // Reload the next group
+//     } else {
+//       console.log("No more groups left");
+//       return null; // No more groups
+//     }
+//   }
+
+//   // Select a random word from the current group
+//   const randomIndex = Math.floor(Math.random() * currentGroupItems.length);
+//   const selectedItem = currentGroupItems.splice(randomIndex, 1)[0]; // Remove the item from the current group
+//   return selectedItem;
+// }
+
+// // Function to show a random word (either from all cards or grouped by length)
+// function showRandomWord() {
+//   if (isGroupedByLength) {
+//     // Show cards grouped by length (Option 2)
+//     currentMedia = getRandomMediaItemFromGroup();
+//     if (!currentMedia) {
+//       console.log("All words have been displayed.");
+//       return; // No more words to display
+//     }
+//   } else {
+//     // Show all cards at random (Option 1)
+//     currentMedia = getRandomMediaItem();
+//   }
+
+//   if (currentMedia) {
+//     wordDisplay.textContent = currentMedia.word;
+//     imageDisplay.classList.add("hidden");
+//     replayButton.classList.add("hidden");
+//     answerButton.textContent = "Answer";
+//     audioPlayer.src = "";
+//   }
+// }
+
+// // Function to reveal the answer
+// function revealAnswer() {
+//   if (currentMedia) {
+//     imageDisplay.src = `./media/${currentMedia.imageFileName}`;
+//     imageDisplay.classList.remove("hidden");
+//     audioPlayer.src = `./media/${currentMedia.audioFileName}`;
+//     audioPlayer.play();
+//     answerButton.textContent = "OK";
+//     replayButton.classList.remove("hidden");
+//   }
+// }
+
+// // Function to replay the audio
+// function replayAudio() {
+//   if (currentMedia) {
+//     audioPlayer.play();
+//   }
+// }
+
+// // Function to reset the state after "OK" is pressed
+// function resetState() {
+//   showRandomWord();
+// }
+
+// // Event listeners for buttons
+// answerButton.addEventListener("click", () => {
+//   if (answerButton.textContent === "Answer") {
+//     revealAnswer();
+//   } else {
+//     resetState();
+//   }
+// });
+
+// replayButton.addEventListener("click", replayAudio);
+
+// // Keyboard event listeners
+// document.addEventListener("keydown", (event) => {
+//   if (event.code === "Space") {
+//     event.preventDefault(); // Prevent default spacebar scrolling behavior
+//     if (answerButton.textContent === "Answer") {
+//       revealAnswer();
+//     } else {
+//       resetState();
+//     }
+//   } else if (event.code === "Enter") {
+//     event.preventDefault(); // Prevent default enter key behavior
+//     if (!imageDisplay.classList.contains("hidden")) {
+//       replayAudio();
+//     }
+//   }
+// });
+
+// // Event listeners for popup options
+// option1Button.addEventListener("click", () => {
+//   isGroupedByLength = false;
+//   hidePopupMenu();
+//   showRandomWord(); // Show all cards randomly
+// });
+
+// option2Button.addEventListener("click", () => {
+//   isGroupedByLength = true;
+//   currentGroupIndex = 2; // Start with the shortest length group
+//   currentGroupItems = [...groupedMediaData[`Length_${currentGroupIndex}`]]; // Load the first group
+//   hidePopupMenu();
+//   showRandomWord(); // Show grouped cards by length
+// });
+
+// // Load the media data when the page loads
+// loadMediaData();
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
 interface MediaItem {
   number: number;
   word: string;
@@ -389,9 +595,10 @@ interface MediaItem {
 let mediaData: MediaItem[] = [];
 let currentMedia: MediaItem | null = null;
 let groupedMediaData: { [key: string]: MediaItem[] } = {}; // Group words by length
-let currentGroupIndex = 2; // Starting group for Option 2 (Length_2)
 let currentGroupItems: MediaItem[] = []; // Holds the remaining items in the current group
-let isGroupedByLength = false; // Flag to track if option 2 is selected
+let currentGroupIndex = 2; // Default length group is "2"
+const minLength = 2;
+const maxLength = 10; // Adjust according to your dataset
 
 const wordDisplay = document.getElementById("wordDisplay") as HTMLDivElement;
 const imageDisplay = document.getElementById(
@@ -404,13 +611,9 @@ const answerButton = document.getElementById(
 const replayButton = document.getElementById(
   "replayButton"
 ) as HTMLButtonElement;
-const popupMenu = document.getElementById("popupMenu") as HTMLDivElement;
-const option1Button = document.getElementById(
-  "option1Button"
-) as HTMLButtonElement;
-const option2Button = document.getElementById(
-  "option2Button"
-) as HTMLButtonElement;
+const radioButtonContainer = document.getElementById(
+  "radioButtonContainer"
+) as HTMLDivElement;
 
 // Function to load the media.json file using XMLHttpRequest
 function loadMediaData() {
@@ -423,8 +626,9 @@ function loadMediaData() {
       try {
         mediaData = JSON.parse(xhr.responseText);
         console.log(`Loaded ${mediaData.length} items from media.json`);
-        groupWordsByLength(); // Group words by length for option 2
-        showPopupMenu(); // Show the menu after data is loaded
+        groupWordsByLength(); // Group words by length for the radio buttons
+        createRadioButtons(); // Create the radio buttons dynamically
+        selectGroup(currentGroupIndex); // Default group is "2"
       } catch (error) {
         console.error("Error parsing JSON:", error);
       }
@@ -452,34 +656,41 @@ function groupWordsByLength() {
   });
 }
 
-// Function to show the pop-up menu
-function showPopupMenu() {
-  popupMenu.style.display = "block";
+// Function to create radio buttons dynamically
+function createRadioButtons() {
+  for (let i = minLength; i <= maxLength; i++) {
+    const radioButton = document.createElement("input");
+    radioButton.type = "radio";
+    radioButton.name = "wordLengthGroup";
+    radioButton.value = i.toString();
+    radioButton.id = `radio-${i}`;
+    radioButton.checked = i === currentGroupIndex; // Default group is 2
+    radioButton.addEventListener("change", (event) => {
+      const selectedValue = (event.target as HTMLInputElement).value;
+      selectGroup(parseInt(selectedValue, 10)); // Switch to the selected group
+    });
+
+    const label = document.createElement("label");
+    label.htmlFor = `radio-${i}`;
+    label.textContent = i.toString();
+
+    radioButtonContainer.appendChild(radioButton);
+    radioButtonContainer.appendChild(label);
+  }
 }
 
-// Function to hide the pop-up menu and start the selected mode
-function hidePopupMenu() {
-  popupMenu.style.display = "none";
+// Function to select the group and display words only from that group
+function selectGroup(length: number) {
+  currentGroupIndex = length;
+  const groupKey = `Length_${currentGroupIndex}`;
+  currentGroupItems = [...groupedMediaData[groupKey]]; // Reload the group items
+  showRandomWord();
 }
 
-// Function to select a random media item (Option 1: show all cards at random)
-function getRandomMediaItem(): MediaItem {
-  const randomIndex = Math.floor(Math.random() * mediaData.length);
-  return mediaData[randomIndex];
-}
-
-// Function to select a random media item from the current group (Option 2: grouped by length)
+// Function to select a random media item from the current group
 function getRandomMediaItemFromGroup(): MediaItem | null {
-  // If the current group is empty, move to the next length group
   if (currentGroupItems.length === 0) {
-    currentGroupIndex++;
-    const nextGroup = groupedMediaData[`Length_${currentGroupIndex}`];
-    if (nextGroup && nextGroup.length > 0) {
-      currentGroupItems = [...nextGroup]; // Reload the next group
-    } else {
-      console.log("No more groups left");
-      return null; // No more groups
-    }
+    currentGroupItems = [...groupedMediaData[`Length_${currentGroupIndex}`]]; // Reload the group when it's exhausted
   }
 
   // Select a random word from the current group
@@ -488,20 +699,9 @@ function getRandomMediaItemFromGroup(): MediaItem | null {
   return selectedItem;
 }
 
-// Function to show a random word (either from all cards or grouped by length)
+// Function to show a random word from the selected group
 function showRandomWord() {
-  if (isGroupedByLength) {
-    // Show cards grouped by length (Option 2)
-    currentMedia = getRandomMediaItemFromGroup();
-    if (!currentMedia) {
-      console.log("All words have been displayed.");
-      return; // No more words to display
-    }
-  } else {
-    // Show all cards at random (Option 1)
-    currentMedia = getRandomMediaItem();
-  }
-
+  currentMedia = getRandomMediaItemFromGroup();
   if (currentMedia) {
     wordDisplay.textContent = currentMedia.word;
     imageDisplay.classList.add("hidden");
@@ -561,21 +761,6 @@ document.addEventListener("keydown", (event) => {
       replayAudio();
     }
   }
-});
-
-// Event listeners for popup options
-option1Button.addEventListener("click", () => {
-  isGroupedByLength = false;
-  hidePopupMenu();
-  showRandomWord(); // Show all cards randomly
-});
-
-option2Button.addEventListener("click", () => {
-  isGroupedByLength = true;
-  currentGroupIndex = 2; // Start with the shortest length group
-  currentGroupItems = [...groupedMediaData[`Length_${currentGroupIndex}`]]; // Load the first group
-  hidePopupMenu();
-  showRandomWord(); // Show grouped cards by length
 });
 
 // Load the media data when the page loads

@@ -83,9 +83,9 @@ body {
 /* Responsive adjustments for smartphones */
 @media (max-width: 600px) {
   .word {
-    font-family: Comic Sans MS;
-    font-size: 10vw; /* Increase the font size for smaller screens */
-    font-weight: 500;
+    font-family: Chalkboard SE;
+    font-size: 11vw; /* Increase the font size for smaller screens */
+    font-weight: 400;
   }
 
   .image {

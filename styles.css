@@ -39,6 +39,7 @@ body {
   ); /* Ensure the image stays within the screen */
   margin: 10px 0;
   display: block;
+  object-fit: contain; /* Maintain aspect ratio */
 }
 
 /* Button container fixed to bottom */
@@ -59,7 +60,6 @@ body {
 .button {
   font-size: 1.2em;
   padding: 5px 10px;
-
   margin: 0 10px;
   cursor: pointer;
   flex-shrink: 0;
@@ -83,6 +83,7 @@ body {
 /* Responsive adjustments for smartphones */
 @media (max-width: 600px) {
   .word {
+    font-family: Comic Sans MS;
     font-size: 6vw; /* Increase the font size for smaller screens */
   }
 
